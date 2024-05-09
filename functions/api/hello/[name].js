@@ -1,4 +1,4 @@
-import { sayHello } from "../../../fsharp/hello/Program.fs";
+import { sayHello } from "../../../fsharp/hello/Program.fs.js";
 
 export function onRequest(context) {
     let name = context.params.name;
