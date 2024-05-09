@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "elm-land": "^0.20.1",
+    "wrangler": "^3.55.0"
+  }
+}
